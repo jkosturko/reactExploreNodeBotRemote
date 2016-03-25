@@ -1,0 +1,9 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.12.4",
+    "johnny-five": "^0.8.77",
+    "socket.io": "^1.3.5"
+  }
+}
